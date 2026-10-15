@@ -7,7 +7,7 @@ This repository contains the course materials for *Economics of Digital Markets*
 > [!IMPORTANT]
 > This course is co-taught with Federico Boffa. This repository contains only the materials for my lectures, which focus on strategic interactions, social dilemmas, and social preferences, mainly through game theory.
 
-## 📌 Manual
+## 📌 Readings
 
 Lectures will mainly be based on Unit 4 of [*The Economy 2.0: Microeconomics*](https://books.core-econ.org/the-economy/microeconomics), by the [CORE Econ](https://www.core-econ.org/) team. Additional readings will be provided during the course.
 
