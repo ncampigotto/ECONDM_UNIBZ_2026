@@ -28,7 +28,7 @@ Lectures will mainly be based on Unit 4 of [*The Economy 2.0: Microeconomics*](h
 
 |  | **Due date** | **Data** | **Questions** |
 |:--|:--|:--|:--|
-| Assignment 1 | 26.10.2026 | Not available | TBD |
-| Assignment 2 | TBD | TBD | TBD |
+| Assignment 1 | 25.10.2026 | Not available | TBD |
+| Assignment 2 | 08.11.2026 | TBD | TBD |
 
 
