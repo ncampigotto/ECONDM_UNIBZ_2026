@@ -14,7 +14,7 @@ Lectures will mainly be based on Unit 4 of [*The Economy 2.0: Microeconomics*](h
 ## 📌 Course materials
 
 | **Lecture** | **When** | **Topic** | **Slides / Handouts** |
-|:--|:--|:--|:--|
+|:-|:--|:--|:--|
 | 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | TBD |
 | 2 | 28.10.2026, 08:00-10:00 | Social dilemmas and punishment    | TBD |
 | 3 | 30.10.2026, 13:30-15:30 | TBD | TBD |
