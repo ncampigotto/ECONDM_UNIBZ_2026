@@ -13,7 +13,7 @@ Lectures will mainly be based on Unit 4 of [*The Economy 2.0: Microeconomics*](h
 
 ## 📌 Course materials
 
-| **Lecture** | **When** | **Topic** | **Slides / Handouts** |
+| **Lecture** | **When** | **Topic** | **Slides** |
 |:--|:--|:--|:--|
 | 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_1.html#/title-slide) |
 | 2 | 28.10.2026, 08:00-10:00 | Social dilemmas    | TBD |
