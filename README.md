@@ -15,7 +15,7 @@ Lectures will mainly be based on Unit 4 of [*The Economy 2.0: Microeconomics*](h
 
 | **Lecture** | **When** | **Topic** | **Slides / Handouts** |
 |:--|:--|:--|:--|
-| 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | TBD |
+| 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_1.html#/title-slide) |
 | 2 | 28.10.2026, 08:00-10:00 | Social dilemmas    | TBD |
 | 3 | 30.10.2026, 13:30-15:30 | TBD | TBD |
 | 4 | 06.11.2026, 10:00-12:00 | TBD | TBD |
@@ -26,9 +26,13 @@ Lectures will mainly be based on Unit 4 of [*The Economy 2.0: Microeconomics*](h
 
 ## 📌 Assignments
 
+Throughout the course, I will give you some assignments to work on. They may ask you to solve exercises or work with real data. Completing them is voluntary: you will not need to submit your answers, and they will not be graded. We will discuss the solutions in class after the due date.
+
 |  | **Due date** | **Data** | **Questions** |
 |:--|:--|:--|:--|
-| Assignment 1 | 28.10.2026 | Not available | TBD |
-| Assignment 2 | 08.11.2026 | TBD | TBD |
+| Assignment 1 | 28.10.2026 | Not available | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_1_practice_problems.pdf) |
+| Assignment 2 | TBD | TBD | TBD |
+| Assignment 3 | TBD | TBD | TBD |
+
 
 
