@@ -37,7 +37,7 @@ Our main reference will be Unit 4 of [*The Economy 2.0: Microeconomics*](https:/
 Lectures will incorporate concepts and evidence from the papers below, which I encourage you to take a look at.
 
 * Alesina, Alberto and Paola Giuliano (2015), “Culture and institutions”, *Journal of Economic Literature*, vol. 53, no. 4, pp. 898-944, [10.1257/jel.53.4.898](https://doi.org/10.1257/jel.53.4.898)
-* Almas, Ingvild, Alexander W. Cappelen and Bertil Tungodden (2020), “Cutthroat Capitalism versus Cuddly Socialism: Are Americans More Meritocratic and Efficiency-Seeking than Scandinavians?”, *Journal of Political Economy*, vol. 128, no. 5, pp. 1753-88, [10.1086/705551](https://doi.org/10.1086/705551)
+* Almås, Ingvild, Alexander W. Cappelen and Bertil Tungodden (2020), “Cutthroat Capitalism versus Cuddly Socialism: Are Americans More Meritocratic and Efficiency-Seeking than Scandinavians?”, *Journal of Political Economy*, vol. 128, no. 5, pp. 1753-88, [10.1086/705551](https://doi.org/10.1086/705551)
 * Allcott, Hunt (2011), “Social Norms and Energy Conservation”, *Journal of Public Economics*, vol. 95, no. 9-10, pp. 1082-95, [10.1016/j.jpubeco.2011.03.003](https://doi.org/10.1016/j.jpubeco.2011.03.003)
 * Andreoni, James (1990), “Impure Altruism and Donations to Public Goods: A Theory of Warm-Glow Giving”, *Economic Journal*, vol. 100, no. 101, pp. 464-77, [10.2307/2234133](https://doi.org/10.2307/2234133)
 * Balafoutas, Loukas, Nikos Nikiforakis and Bettina Rockenbach (2014), “Direct and Indirect Punishment Among Strangers in the Field”, *Proceedings of the National Academy of Sciences*, vol. 111, no. 45, pp. 15924-27, [10.1073/pnas.1413170111](https://doi.org/10.1073/pnas.1413170111)
