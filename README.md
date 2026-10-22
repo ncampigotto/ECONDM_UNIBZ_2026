@@ -36,7 +36,7 @@ Our main reference will be Unit 4 of [*The Economy 2.0: Microeconomics*](https:/
 
 Lectures will incorporate concepts and evidence from the papers below, which I encourage you to take a look at.
 
-* Alesina, Alberto and Paola Giuliano (2015), “Culture and institutions”, *Journal of Economic Literature*, vol. 53, no. 4, pp. 898-944, [10.1257/jel.53.4.898](https://doi.org/10.1257/jel.53.4.898)
+* Alesina, Alberto and Paola Giuliano (2015), “Culture and Institutions”, *Journal of Economic Literature*, vol. 53, no. 4, pp. 898-944, [10.1257/jel.53.4.898](https://doi.org/10.1257/jel.53.4.898)
 * Almås, Ingvild, Alexander W. Cappelen and Bertil Tungodden (2020), “Cutthroat Capitalism versus Cuddly Socialism: Are Americans More Meritocratic and Efficiency-Seeking than Scandinavians?”, *Journal of Political Economy*, vol. 128, no. 5, pp. 1753-88, [10.1086/705551](https://doi.org/10.1086/705551)
 * Allcott, Hunt (2011), “Social Norms and Energy Conservation”, *Journal of Public Economics*, vol. 95, no. 9-10, pp. 1082-95, [10.1016/j.jpubeco.2011.03.003](https://doi.org/10.1016/j.jpubeco.2011.03.003)
 * Andreoni, James (1990), “Impure Altruism and Donations to Public Goods: A Theory of Warm-Glow Giving”, *Economic Journal*, vol. 100, no. 101, pp. 464-77, [10.2307/2234133](https://doi.org/10.2307/2234133)
@@ -54,5 +54,5 @@ Lectures will incorporate concepts and evidence from the papers below, which I e
 * Hardin, Garrett (1968), “The Tragedy of the Commons”, *Science*, vol. 162, no. 3859, pp. 1243-48, [10.1126/science.162.3859.1243](https://doi.org/10.1126/science.162.3859.1243)
 * Hermann, Benedikt, Christian Thöni and Simon Gächter (2008) “Antisocial Punishment Across Societies”, *Science*, vol. 319, no. 5868, pp. 1362-67, [10.1126/science.1153808](https://doi.org/10.1126/science.1153808)
 * Kahneman, Daniel, Jack L. Knetsch and Richard H. Thaler (1986), “Fairness as a Constraint on Profit Seeking: Entitlements in the Market”, *American Economic Review*, vol. 76, no. 4, pp. 728-41, [jstor.org/stable/1806070](https://www.jstor.org/stable/1806070)
-* Levitt, Steven D. and John A. List (2007), “What Do Laboratory Experiments Measuring Social Preferences Reveal about the Real World?” *Journal of Economic Perspectives*, vol. 21, no. 2, pp. 153-74, [10.1257/jep.21.2.153](https://doi.org/10.1257/jep.21.2.153)
+* Levitt, Steven D. and John A. List (2007), “What Do Laboratory Experiments Measuring Social Preferences Reveal about the Real World?”, *Journal of Economic Perspectives*, vol. 21, no. 2, pp. 153-74, [10.1257/jep.21.2.153](https://doi.org/10.1257/jep.21.2.153)
 * Ostrom, Elinor (2010), “The Challenge of Common-Pool Resources”, *Environment: Science and Policy for Sustainable Development*, vol. 50, no. 4, pp. 8-21, [10.3200/ENVT.50.4.8-21](https://doi.org/10.3200/ENVT.50.4.8-21)
