@@ -30,8 +30,8 @@ Throughout the course, I will give you some assignments to work on. They may ask
 
 |  | **Due date** | **Data** | **Questions** |
 |:--|:--|:--|:--|
-| Assignment 1 | 28.10.2026 |  | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_1_practice_problems.pdf) |
-| Assignment 2 | 06.11.2026 | TBD | TBD |
+| Assignment 1 | 28.10.2026 |  | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_practice_1.pdf) |
+| Assignment 2 | 06.11.2026 | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/pgg_unibz.csv) | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_practice_2.pdf) |
 | Assignment 3 | 13.11.2026 | TBD | TBD |
 
 
