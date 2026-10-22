@@ -16,7 +16,7 @@ This repository contains the course materials for *Economics of Digital Markets*
 | 3 | 30.10.2026, 13:30-15:30 | Reciprocity and punishment | |
 | 4 | 06.11.2026, 10:00-12:00 | Social preferences and their crowding-out | |
 | 5 | 06.11.2026, 13:30-15:30 | Social preferences and repeated games | |
-| 6 | 13.11.2026, 10:00-12:00 | Social comparisons | |
+| 6 | 13.11.2026, 10:00-12:00 | Social comparisons and recognition | |
 | 7 | 13.11.2026, 13:30-15:30 | Endogenous preferences | |
 
 
