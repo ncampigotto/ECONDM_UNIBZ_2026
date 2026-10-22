@@ -16,12 +16,12 @@ Lectures will mainly be based on Unit 4 of [*The Economy 2.0: Microeconomics*](h
 | **Lecture** | **When** | **Topic** | **Slides** |
 |:--|:--|:--|:--|
 | 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_1.html#/title-slide) |
-| 2 | 28.10.2026, 08:00-10:00 | Social dilemmas    | TBD |
-| 3 | 30.10.2026, 13:30-15:30 | Reciprocity and punishment | TBD |
-| 4 | 06.11.2026, 10:00-12:00 | TBD | TBD |
-| 5 | 06.11.2026, 13:30-15:30 | TBD | TBD |
-| 6 | 13.11.2026, 10:00-12:00 | TBD | TBD |
-| 7 | 13.11.2026, 13:30-15:30 | TBD | TBD |
+| 2 | 28.10.2026, 08:00-10:00 | Social dilemmas    | |
+| 3 | 30.10.2026, 13:30-15:30 | Reciprocity and punishment | |
+| 4 | 06.11.2026, 10:00-12:00 | | |
+| 5 | 06.11.2026, 13:30-15:30 | | |
+| 6 | 13.11.2026, 10:00-12:00 | | |
+| 7 | 13.11.2026, 13:30-15:30 | | |
 
 
 ## 📌 Assignments
@@ -32,7 +32,7 @@ Throughout the course, I will give you some assignments to work on. They may ask
 |:--|:--|:--|:--|
 | Assignment 1 | 28.10.2026 |  | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_practice_1.pdf) |
 | Assignment 2 | 06.11.2026 | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/pgg_unibz.csv) | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_practice_2.pdf) |
-| Assignment 3 | 13.11.2026 | TBD | TBD |
+| Assignment 3 | 13.11.2026 | | |
 
 
 
