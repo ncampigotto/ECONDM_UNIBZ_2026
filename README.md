@@ -13,9 +13,9 @@ This repository contains the course materials for *Economics of Digital Markets*
 |:--|:--|:--|:--|
 | 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_1.html) |
 | 2 | 28.10.2026, 08:00-10:00 | Social dilemmas    | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_2.html) |
-| 3 | 06.11.2026, 10:00-12:00 | Reciprocity and punishment | |
+| 3 | 06.11.2026, 10:00-12:00 | Reciprocity and punishment | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_3.html) |
 | 3 | 06.11.2026, 13:30-15:30 | Social preferences and their crowding-out | |
-| 4 | 13.11.2026, 10:00-12:00 | Social preferences and repeated games | |
+| 4 | 13.11.2026, 10:00-12:00 | Social preferences and sequential games | |
 | 5 | 13.11.2026, 13:30-15:30 | Social comparisons and recognition | |
 | 6 | 18.11.2026, 08:00-10:00 | Endogenous preferences | |
 
