@@ -14,10 +14,10 @@ This repository contains the course materials for *Economics of Digital Markets*
 | 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_1.html) |
 | 2 | 28.10.2026, 08:00-10:00 | Social dilemmas    | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_2.html) |
 | 3 | 06.11.2026, 10:00-12:00 | Reciprocity and punishment | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_3.html) |
-| 3 | 06.11.2026, 13:30-15:30 | Social preferences and their crowding-out | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_4.html) |
-| 4 | 13.11.2026, 10:00-12:00 | Social preferences and sequential games | |
-| 5 | 13.11.2026, 13:30-15:30 | Social comparisons and recognition | |
-| 6 | 18.11.2026, 08:00-10:00 | Endogenous preferences | |
+| 4 | 06.11.2026, 13:30-15:30 | Social preferences and their crowding-out | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_4.html) |
+| 5 | 13.11.2026, 10:00-12:00 | Social preferences and sequential games | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_5.html) |
+| 6 | 13.11.2026, 13:30-15:30 | Social comparisons and recognition | |
+| 7 | 18.11.2026, 08:00-10:00 | Endogenous preferences | |
 
 
 ## 📌 Assignments
@@ -47,11 +47,13 @@ Lectures will incorporate concepts and evidence from the papers below, which I e
 * DellaVigna, Stefano, John A. List and Ulrike Malmendier (2012), “Testing for Altruism and Social Pressure in Charitable Giving”, *Quarterly Journal of Economics*, vol. 127, no. 1, pp. 1-56, [10.1093/qje/qjr050](https://doi.org/10.1093/qje/qjr050)
 * Fabbri, Marco and Maria Bigoni (2022) “How Property Shapes Distributional Preferences”, IZA Discussion Paper no. 14768, [ssrn.com/abstract=4114305](https://ssrn.com/abstract=4114305)
 * Fehr, Ernst and Andreas Leibbrandt (2011), “A Field Study on Cooperativeness and Impatience in the Tragedy of the Commons”, *Journal of Public Economics*, vol. 95, no. 9-10, pp. 1144-55, [10.1016/j.jpubeco.2011.05.013](https://doi.org/10.1016/j.jpubeco.2011.05.013)
+* Fischbacher, Urs, Christina M. Fong and Ernst Fehr (2009), “Fairness, Errors and the Power of Competition”, *Journal of Economic Behavior & Organization*, vol. 72, no. 1, pp. 527-45, [10.1016/j.jebo.2009.05.021](https://doi.org/10.1016/j.jebo.2009.05.021)
 * Gneezy, Uri and Aldo Rustichini (2000), “A Fine Is a Price”, *Journal of Legal Studies*, vol. 29, no. 1, pp. 1-17, [10.1086/468061](https://doi.org/10.1086/468061)
 * Goette, Lorenz and Egon Tripodi (2024), “The Limits of Social Recognition: Experimental Evidence from Blood Donors”, *Journal of Public Economics*, vol. 231, no. 105069, [10.1016/j.jpubeco.2024.105069](https://doi.org/10.1016/j.jpubeco.2024.105069)
 * Güth, Werner, Rolf Schmittberger and Bernd Schwarze (1982), “An Experimental Analysis of Ultimatum Bargaining”, *Journal of Economic Behavior & Organization*, vol. 3, no. 4, pp. 367-88, [10.1016/0167-2681(82)90011-7](https://doi.org/10.1016/0167-2681(82)90011-7)
 * Harbaugh, William T., Ulrich Mayr and Daniel R. Burghart (2007), “Neural Responses to Taxation and Voluntary Giving Reveal Motives for Charitable Donations”, *Science*, vol. 316, no. 5831, pp. 1622-25, [10.1126/science.1140738](https://doi.org/10.1126/science.1140738)
 * Hardin, Garrett (1968), “The Tragedy of the Commons”, *Science*, vol. 162, no. 3859, pp. 1243-48, [10.1126/science.162.3859.1243](https://doi.org/10.1126/science.162.3859.1243)
+* Henrich, Joseph, Richard McElreath, Abigail Barr, Jean Ensminger, Clark Barrett, Alexander Bolyanatz, Juan Camilo Cardenas, Michael Gurven, Edwins Gwako, Natalie Henrich, Carolyn Lesorogol, Frank Marlowe, David Tracer and John Ziker (2006), “Costly Punishment Across Human Societies”, *Science*, vol. 312, no. 5781, pp. 1767-70, [10.1126/science.1127333](https://doi.org/10.1126/science.1127333)
 * Hermann, Benedikt, Christian Thöni and Simon Gächter (2008) “Antisocial Punishment Across Societies”, *Science*, vol. 319, no. 5868, pp. 1362-67, [10.1126/science.1153808](https://doi.org/10.1126/science.1153808)
 * Kahneman, Daniel, Jack L. Knetsch and Richard H. Thaler (1986), “Fairness as a Constraint on Profit Seeking: Entitlements in the Market”, *American Economic Review*, vol. 76, no. 4, pp. 728-41, [jstor.org/stable/1806070](https://www.jstor.org/stable/1806070)
 * Levitt, Steven D. and John A. List (2007), “What Do Laboratory Experiments Measuring Social Preferences Reveal about the Real World?”, *Journal of Economic Perspectives*, vol. 21, no. 2, pp. 153-74, [10.1257/jep.21.2.153](https://doi.org/10.1257/jep.21.2.153)
