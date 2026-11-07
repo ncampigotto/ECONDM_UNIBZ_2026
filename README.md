@@ -11,13 +11,13 @@ This repository contains the course materials for *Economics of Digital Markets*
 
 | **Lecture** | **When** | **Topic** | **Slides** |
 |:--|:--|:--|:--|
-| 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_1.html) |
-| 2 | 28.10.2026, 08:00-10:00 | Social dilemmas    | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_2.html) |
-| 3 | 06.11.2026, 10:00-12:00 | Reciprocity and punishment | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_3.html) |
-| 4 | 06.11.2026, 13:30-15:30 | Social preferences and their crowding out | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_4.html) |
-| 5 | 13.11.2026, 10:00-12:00 | Social preferences and sequential games | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_5.html) |
-| 6 | 13.11.2026, 13:30-15:30 | Social comparisons and recognition | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_6.html) |
-| 7 | 18.11.2026, 08:00-10:00 | Endogenous preferences | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_7.html) |
+| 1 | 21.10.2026, 08:00-10:00 | Introduction to game theory       | [Download](https://ncampigotto.github.io/teaching/2026_27/EDM_2026_1.html) |
+| 2 | 28.10.2026, 08:00-10:00 | Social dilemmas    | [Download](https://ncampigotto.github.io/teaching/2026_27/EDM_2026_2.html) |
+| 3 | 06.11.2026, 10:00-12:00 | Reciprocity and punishment | [Download](https://ncampigotto.github.io/teaching/2026_27/EDM_2026_3.html) |
+| 4 | 06.11.2026, 13:30-15:30 | Social preferences and their crowding out | [Download](https://ncampigotto.github.io/teaching/2026_27/EDM_2026_4.html) |
+| 5 | 13.11.2026, 10:00-12:00 | Social preferences and sequential games | [Download](https://ncampigotto.github.io/teaching/2026_27/EDM_2026_5.html) |
+| 6 | 13.11.2026, 13:30-15:30 | Social comparisons and recognition | [Download](https://ncampigotto.github.io/teaching/2026_27/EDM_2026_6.html) |
+| 7 | 18.11.2026, 08:00-10:00 | Endogenous preferences | [Download](https://ncampigotto.github.io/teaching/2026_27/EDM_2026_7.html) |
 
 
 ## 📌 Assignments
