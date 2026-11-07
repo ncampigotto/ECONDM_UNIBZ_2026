@@ -5,7 +5,7 @@
 This repository contains the course materials for *Economics of Digital Markets* (University of Bozen-Bolzano, Bachelor's degree in Informatics and Management of Digital Business).
 
 > [!IMPORTANT]
-> This course is co-taught with Federico Boffa. This repository contains only the materials for my lectures, which focus on strategic interactions, social dilemmas, and social preferences, mainly through game theory.
+> The course is co-taught with Federico Boffa. This repository contains only the materials for my lectures, which focus on strategic interactions, social dilemmas, and social preferences, mainly through game theory.
 
 ## 📌 Course materials
 
@@ -16,8 +16,8 @@ This repository contains the course materials for *Economics of Digital Markets*
 | 3 | 06.11.2026, 10:00-12:00 | Reciprocity and punishment | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_3.html) |
 | 4 | 06.11.2026, 13:30-15:30 | Social preferences and their crowding-out | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_4.html) |
 | 5 | 13.11.2026, 10:00-12:00 | Social preferences and sequential games | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_5.html) |
-| 6 | 13.11.2026, 13:30-15:30 | Social comparisons and recognition | |
-| 7 | 18.11.2026, 08:00-10:00 | Endogenous preferences | |
+| 6 | 13.11.2026, 13:30-15:30 | Social comparisons and recognition | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_6.html) |
+| 7 | 18.11.2026, 08:00-10:00 | Endogenous preferences | [Download](https://ncampigotto.github.io/teaching/bz/EDM_2026_7.html) |
 
 
 ## 📌 Assignments
@@ -28,7 +28,7 @@ Throughout the course, I will give you some assignments to work on. They may ask
 |:--|:--|:--|:--|
 | Assignment 1 | 28.10.2026 |  | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_practice_1.pdf) |
 | Assignment 2 | 06.11.2026 | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/pgg_unibz.csv) | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_practice_2.pdf) |
-| Assignment 3 | 13.11.2026 | | |
+| Assignment 3 | 18.11.2026 | | [Download](https://github.com/ncampigotto/ECONDM_UNIBZ_2026/blob/main/assignments/EDM_2026_practice_3.pdf) |
 
 ## 📌 Readings
 
